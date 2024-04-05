@@ -20,3 +20,12 @@ The data is sourced through online forms and thus is of questionable accuracy.
 A large portion of the original dataset collected had missing values. This was ignored for a simpler analysis.
 The entire premise of predicting urgency of admission is false because some people had to wait longer to be admitted because of lack of hospital beds and resources.
 For this problem setting, we examine two different models: Logistic Regression and kNN Classification. The goal is to train both these models and report the accuracy.
+
+| Classification Metric  | Logistic Regression | kNN Classification |
+|------------------------|---------------------|--------------------|
+| Accuracy               | 62%                 | 62%                |
+| Sensitivity/Recall/TPR | 72%                 | 75%                |
+| Specificity/TNR        | 50%                 | 47%                |
+| Precision              | 62%                 | 62%                |
+| F1 Score               | 67%                 | 68%                |
+
