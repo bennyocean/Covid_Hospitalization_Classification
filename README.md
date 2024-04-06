@@ -185,7 +185,7 @@ These insights offer valuable perspectives for refining energy consumption forec
 
 This project underscores the dynamic and multifaceted nature of energy consumption forecasting. The insights derived not only show the path towards more accurate models but also highlight the critical role of temporal analysis and anomaly investigation in enhancing energy management strategies.
 -->
-To emphasize the problem of relying on a single metric such as accuracy for prediction, we’ll compare scenarios from different countries’ COVID-19 response.
+<!-- To emphasize the problem of relying on a single metric such as accuracy for prediction, we’ll compare scenarios from different countries’ COVID-19 response.
 
 Problem Setting
 At the peak of the COVID-19 pandemic, hospital authorities had to make a call about who to admit and who to send home given the limited available resources. Our problem is to have a classifier that suggests whether a patient should be immediately admitted to the hospital or sent home.
@@ -215,4 +215,6 @@ For this problem setting, we examine two different models: Logistic Regression a
 | Specificity/TNR        | 50%                 | 47%                |
 | Precision              | 62%                 | 62%                |
 | F1 Score               | 67%                 | 68%                |
+-->
 
+Readme in progress. -> All files are uploaded.
