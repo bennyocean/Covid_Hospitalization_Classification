@@ -151,7 +151,7 @@ logreg_thresholds = get_thresholds(y_pred_logreg)
 
 We then calculate the **False Posotive Rate (FPR)** and the **True Posotive Rate (TPR)** and plott the TPR agaisnt the FPR at various threshod levels.
 
-![ROC_Plot](assets/roc.png)
+![ROC_Plot](assets/roc_plot.png)
 
 *ROC plot of the two models evaluated*
 
